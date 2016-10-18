@@ -47,7 +47,7 @@ function loadPage(url)
 	
 	$.ajax({
 		type: "POST",
-		url: "https://googledrive.com/host/0B0BQU6d3MZy9SzBHZ0ZJLXBHUkk",
+		url: "load_page.php",
 		data: 'page='+url,
 		dataType: "html",
 		success: function(msg){
