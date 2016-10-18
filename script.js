@@ -47,7 +47,7 @@ function loadPage(url)
 	
 	$.ajax({
 		type: "POST",
-		url: "load_page.php",
+		url: "https://thanhnvbk92.github.io/Korean-TV/load_page.php",
 		data: 'page='+url,
 		dataType: "html",
 		success: function(msg){
