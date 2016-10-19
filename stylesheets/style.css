@@ -3436,15 +3436,15 @@ float: left;
 margin-right: 20px;
 }
 
-#bot1-wrapper{ width: 75%;
+#bot1-wrapper{ width: 66%;
 	position: relative;
 	height: 400px;
     	background: #1a1a1a;
 	float: left;
     	display: inline-block;}
-#bot2-wrapper{    width: 24%;
+#bot2-wrapper{    width: 34%;
 	float: left;
-	height: 440px;
+	height: 400px;
     	background: #1a1a1a;
     	display: inline-block;
     	vertical-align: top;}
