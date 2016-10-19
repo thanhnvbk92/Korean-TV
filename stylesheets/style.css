@@ -3439,7 +3439,9 @@ margin-right: 20px;
 #bot1-wrapper{    max-width: 75%;
     position: relative;
     display: inline-block;}
-#bot2-wrapper{padding-left:10px;width:280px;float:right;word-wrap:break-word;overflow:hidden}
+#bot2-wrapper{    width: 24%;
+    display: inline-block;
+    vertical-align: top;}
 .bot .widget,.bot1 .widget,.bot2 .widget{margin:0;padding:0 0 8px}
 .bot ul,.bot1 ul,.bot2 ul {list-style:none;margin:0 0 0;padding:0 0 0;}
 
