@@ -3419,7 +3419,9 @@ line-height: 22px;
 word-wrap: break-word; overflow: hidden;} 
 .slide1 ul {list-style:none;margin:0;padding:0;}
 .slide1 .widget {margin:0}
-#bot-wrapper {padding-top:10px;width:100%;float:left;word-wrap:break-word;overflow:hidden;background-image: url(http://demo.cactusthemes.com/truemag/wp-content/uploads/2014/02/wood-background.jpg);}
+#bot-wrapper {position: relative;
+    max-width: 1600px;
+    margin: 0 auto;}
 
 div#myvideo1 {
 text-align: left;
