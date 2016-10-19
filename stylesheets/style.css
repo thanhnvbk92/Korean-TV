@@ -3437,13 +3437,17 @@ margin-right: 20px;
 }
 
 #bot1-wrapper{ width: 75%;
-    position: relative;
+	position: relative;
+	height: 440px;
+    	background: #1a1a1a;
 	float: left;
-    display: inline-block;}
+    	display: inline-block;}
 #bot2-wrapper{    width: 24%;
-	    float: left;
-    display: inline-block;
-    vertical-align: top;}
+	float: left;
+	height: 440px;
+    	background: #1a1a1a;
+    	display: inline-block;
+    	vertical-align: top;}
 .bot .widget,.bot1 .widget,.bot2 .widget{margin:0;padding:0 0 8px}
 .bot ul,.bot1 ul,.bot2 ul {list-style:none;margin:0 0 0;padding:0 0 0;}
 
