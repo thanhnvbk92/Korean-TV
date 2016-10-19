@@ -3486,7 +3486,7 @@ html ul.tab-view li.active,html ul.tab-view li.active a,html ul.tab-view li.acti
 .featuredPost2 .entry-title{font:14px Oswald;text-transform:none;color:#422929;line-height:15px;margin-bottom:5px}
 .featuredPost2 .entry-title a{color:#EBC73D}
 .featuredPost2 .entry-title a:hover{color:#fff}
-.featuredPost2{;font:11px Arial;float:left;padding:10px;margin-bottom:10px;overflow:hidden;height:440px;}
+.featuredPost2{;font:11px Arial;float:left;padding:10px;margin-bottom:10px;overflow:hidden;height:400px;}
 .featuredPost2 ul li{border:none;background: none;
 margin: 0;
 padding: 5px 0;
