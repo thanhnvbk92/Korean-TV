@@ -3436,7 +3436,7 @@ float: left;
 margin-right: 20px;
 }
 
-#bot1-wrapper{    max-width: 75%;
+#bot1-wrapper{ width: 75%;
     position: relative;
     display: inline-block;}
 #bot2-wrapper{    width: 24%;
@@ -3459,8 +3459,12 @@ html ul.tab-view li.active,html ul.tab-view li.active a,html ul.tab-view li.acti
 .tabber h2 a:hover{color:#222}
 
 /* Slider */
-.sompret-wrapper {max-width: 100%; position: relative;background:#1a1a1a;height: auto;}
-.sompret { overflow: hidden; position: relative; width:795px; height:400px;}
+.sompret-wrapper {width: 100%; position: relative;background:#1a1a1a;height: auto;}
+.sompret {overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 400px;
+    padding: 5px 0px 5px 5px;}
 .image_reel { position: absolute; top: 0; left: 0; }
 .image_reel img {overflow: hidden;float: left;width:795px; height:auto;}
 .paging {background:#1a1a1a;padding: 4px 0 2px; text-align:center;z-index: 100; }
