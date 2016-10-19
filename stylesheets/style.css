@@ -3459,7 +3459,7 @@ html ul.tab-view li.active,html ul.tab-view li.active a,html ul.tab-view li.acti
 .tabber h2 a:hover{color:#222}
 
 /* Slider */
-.sompret-wrapper {float:right; position: relative;padding:7px 7px 4px;background:#1a1a1a}
+.sompret-wrapper {max-width: 100%; position: relative;background:#1a1a1a;height: auto;}
 .sompret { overflow: hidden; position: relative; width:795px; height:400px;}
 .image_reel { position: absolute; top: 0; left: 0; }
 .image_reel img {overflow: hidden;float: left;width:795px; height:auto;}
