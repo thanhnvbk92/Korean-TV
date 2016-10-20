@@ -3464,7 +3464,7 @@ html ul.tab-view li.active,html ul.tab-view li.active a,html ul.tab-view li.acti
 .tabber h2 a:hover{color:#222}
 
 /* Slider */
-.sompret-wrapper {width: 100%; position: relative;background:#1a1a1a;height: auto;}
+.sompret-wrapper {width: 645; position: relative;background:#1a1a1a;height: auto;}
 .sompret {overflow: hidden;
     position: relative;
     width: 100%;
